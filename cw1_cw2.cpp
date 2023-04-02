@@ -120,8 +120,8 @@ void wejscie_analizator_leksykalny() {
     }
 }
 
-//int main() {
-//    liczenieznakow();
-//    wejscie_analizator_leksykalny();
-//    return 0;
-//}
+int main() {
+    liczenieznakow();
+    wejscie_analizator_leksykalny();
+    return 0;
+}
